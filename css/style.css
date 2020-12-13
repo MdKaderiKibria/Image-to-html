@@ -49,6 +49,7 @@ header{
 }
 .menu_top button:hover{
     background: #1c2d49;
+    color:white;
 }
 .menu_top button:last-child{
     background: #0278BE;
