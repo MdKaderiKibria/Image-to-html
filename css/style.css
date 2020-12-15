@@ -51,6 +51,17 @@ header{
     background: #1c2d49;
     color:white;
 }
+.menu_top button a{
+    color: black;
+    transition: .6s;
+    -webkit-transition: .6s;
+    -moz-transition: .6s;
+    -ms-transition: .6s;
+    -o-transition: .6s;
+}
+.menu_top button:hover a{
+    color: white;
+}
 .menu_top button:last-child{
     background: #0278BE;
 }
